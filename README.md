@@ -6,7 +6,6 @@
 ![Database](https://img.shields.io/badge/database-Firestore-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
----
 
 ## 📌 Sobre o Projeto
 
@@ -16,7 +15,6 @@ Atualmente, muitas informações importantes para o aprendizado — como resumos
 
 O **PCCA** surge como solução para centralizar esse conhecimento em um ambiente moderno, acessível e organizado.
 
----
 
 ## 🎯 Objetivo Geral
 
@@ -27,7 +25,6 @@ Desenvolver uma plataforma digital que facilite o compartilhamento de conhecimen
 - acesso rápido à informação;
 - aprendizado coletivo.
 
----
 
 ## ✅ Objetivos Específicos
 
@@ -35,8 +32,6 @@ Desenvolver uma plataforma digital que facilite o compartilhamento de conhecimen
 - Implementar mecanismo de busca;
 - Incentivar o aprendizado colaborativo;
 - Evitar perda de conteúdos importantes;
-
----
 
 ## ❗ Problema Identificado
 
@@ -54,7 +49,6 @@ Isso dificulta:
 - reaproveitamento do conhecimento;
 - colaboração contínua.
 
----
 
 ## 💡 Solução Proposta
 
@@ -65,7 +59,6 @@ Criar o **PCCA**, uma plataforma digital centralizada onde os alunos possam:
 - pesquisar informações;
 - colaborar entre si.
 
----
 
 ## 🚀 Funcionalidades do Sistema
 
@@ -103,14 +96,12 @@ Criar o **PCCA**, uma plataforma digital centralizada onde os alunos possam:
 - Ordenação por data
 - Área personalizada
 
----
 
 ## 🎯 Público-Alvo
 
 - Alunos do ensino médio
 - Alunos do ensino técnico
 
----
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -124,7 +115,7 @@ Criar o **PCCA**, uma plataforma digital centralizada onde os alunos possam:
 
 - Firebase Authentication
 - Firestore
----
+
 
 ## 📁 Estrutura do Projeto
 
@@ -155,8 +146,6 @@ PCCA/
 - Comunidade acadêmica ativa;
 - Base de conhecimento contínua.
 
----
-
 ## 📄 Documentação do Sistema
 
 > Espaço reservado para documentação técnica completa.
@@ -165,7 +154,12 @@ PCCA/
 
 [Ver PDF](./pcca-backend.pdf)
 
----
+## Protótipo
+
+Confira o protótipo completo do aplicativo PCCA em PDF:
+
+[**Visualizar protótipo do PCCA WEBSITE (PDF)**](prototipo-pcca-web.pdf)
+
 
 ## 🔒 Política de Privacidade
 
@@ -222,13 +216,10 @@ A plataforma pode utilizar:
 
 Projeto desenvolvido por **Jonnas Pedro**.
 
----
-
 ## 📜 Licença
 
 Este projeto está sob licença **MIT**.
 
----
 
 ## ⭐ Considerações Finais
 
